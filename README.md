@@ -1,9 +1,10 @@
-Campo Minado - Jogo
+-Campo Minado - Jogo:
+
 Este projeto é uma implementação do clássico jogo Campo Minado, onde o jogador deve revelar células de um tabuleiro sem cair em minas escondidas. O jogo é jogado em um tabuleiro de dimensões definidas pelo usuário, com um número aleatório de minas espalhadas. O jogador deve escolher as células de forma estratégica, evitando as minas e revelando o maior número possível de células.
 
 
 
-Funcionalidades:
+-Funcionalidades:
 
 Tabuleiro personalizável: O tamanho do tabuleiro e o número de minas podem ser ajustados.
 
@@ -17,7 +18,7 @@ Posicionamento aleatório de minas: As minas são distribuídas aleatoriamente n
 
 
 
-Estrutura do Projeto:
+-Estrutura do Projeto:
 
 Arquivos:
 
@@ -29,7 +30,7 @@ main.c: Arquivo principal que inicializa o jogo, interage com o jogador e chama 
 
 
 
-Funções principais:
+-Funções principais:
 
 alocarMatriz: Aloca memória para o tabuleiro do jogo.
 
@@ -53,7 +54,7 @@ registrarCoordenadaNoLog: Registra cada jogada realizada no log.
 
 
 
-Como Jogar:
+-Como Jogar:
 
 1.Compile o código utilizando um compilador C.
 
