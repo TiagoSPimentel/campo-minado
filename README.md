@@ -64,11 +64,11 @@ registrarCoordenadaNoLog: Registra cada jogada realizada no log.
 
 4.Evite as minas! Se uma mina for revelada, o jogo termina.
 
-5. Se todas as células livres forem reveladas sem detonar minas, você ganha.
+5.Se todas as células livres forem reveladas sem detonar minas, você ganha.
 
    
 
-Compilação:
+-Compilação:
 
 Para compilar o código, use o seguinte comando:
 gcc main.c matriz.c log.c -o campo_minado
