@@ -1,0 +1,2 @@
+Jogo iniciado em: 2024-11-15 21:02:03
+Jogada na coordenada: (0, 0)
