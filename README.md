@@ -55,10 +55,10 @@ Para rodar o jogo:
 
 ## Como Jogar:
 
-1.Compile o código utilizando um compilador C.
-2.Execute o programa.
-3.O jogo exibirá um tabuleiro vazio e você deverá escolher coordenadas para revelar.
-4.Evite as minas! Se uma mina for revelada, o jogo termina.
-5.Se todas as células livres forem reveladas sem detonar minas, você ganha.
-
+1. Compile o código utilizando um compilador C.
+2. Execute o programa.
+3. O jogo exibirá um tabuleiro vazio e você deverá escolher coordenadas para revelar.
+4. Evite as minas! Se uma mina for revelada, o jogo termina.
+5. Se todas as células livres forem reveladas sem detonar minas, você ganha.
+   
 
